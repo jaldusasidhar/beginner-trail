@@ -1,0 +1,38 @@
+.ok{
+	background-color: orange;
+	width: 100%;
+	text-align: center;
+	color:black;
+	box-sizing: border-box;
+    line-height:2.5em;
+ 
+    
+}
+.div-2{
+	margin: 10px;
+	padding: 10px;
+
+}
+
+
+.this_one {
+	background-color: grey;
+	float: left;
+	width:33.3%;
+	border:1px solid white;
+	padding:10px;
+	box-sizing:border-box;
+
+}
+
+.tangle:hover{
+	background-color: yellow;
+	color: red;
+	
+}
+.tangle{
+	background-color: red;
+	color: black;
+	border:1px solid black;
+
+}
